@@ -1,12 +1,6 @@
 function Home() {
   return (
     <div>
-      <div className="text-center p-4 bg-purple-100">
-        <h1 className="text-2xl font-bold text-purple-600">
-          Adri, eu amo você. Te amo minha lindinha!
-        </h1>
-      </div>
-
       <header className="bg-slate-800 text-white text-center p-8">
         <h1 className="text-4xl font-bold">Soluções em Pavers</h1>
         <p className="mt-2">Qualidade e durabilidade para seu projeto</p>
